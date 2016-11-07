@@ -1,5 +1,8 @@
 #!/bin/bash
 
+	if [ testResults.csv ]; then
+    		rm testResults.csv 
+	fi
 	for file in Graphs/*.mtx
 	do
 	 # do something on "$file"
