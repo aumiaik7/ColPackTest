@@ -82,7 +82,7 @@ cout<<"here"<<gname;
    //official_example(gname);
 	}
     else{
-	cout<<gname<<",";
+	cout<<gname<<","
 	 ConvertMatrixMarketFormat2RowCompressedFormat(gname, uip3_SparsityPattern, dp3_Value,rowCount, columnCount);
 	BipartiteGraphPartialColoringInterface *g = new BipartiteGraphPartialColoringInterface(SRC_MEM_ADOLC, *uip3_SparsityPattern, rowCount, columnCount);
  

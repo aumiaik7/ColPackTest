@@ -1085,8 +1085,7 @@ int ConvertMatrixMarketFormat2RowCompressedFormat(string s_InputFile, unsigned i
 	char * result = mm_typecode_to_str(matcode);
 	//printf("Graph of Market Market type: [%s]\n", result);
 	free(result);
-	if (b_getValue)
-{} //printf("\t Graph structure and VALUES will be read\n");
+	if (b_getValue) //printf("\t Graph structure and VALUES will be read\n");
 	else {
 	  printf("\t Read graph struture only. Values will NOT be read. dp3_Value will NOT be allocated memory, so don't try to use it!!!\n");
 	  Pause();

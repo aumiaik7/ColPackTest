@@ -3,9 +3,6 @@
 using namespace ColPack;
 void official_example(std::string gname);
 void usage(std::string appname);
-#ifndef TOP_DIR
- #define TOP_DIR "."
- #endif
 
 int main(int argc, char* argv[]) {
 
@@ -67,27 +64,15 @@ int main(int argc, char* argv[]) {
                 exit(1);
         }
     if(gname.empty())
-     {
-
-//   official_example("Graphs/bcsstk01.mtx");
-	}
+        official_example("Graphs/bcsstk01.mtx");
     else if(order.empty() || color.empty())
-     {
-cout<<"here"<<gname;
- ConvertMatrixMarketFormat2RowCompressedFormat(gname, uip3_SparsityPattern, dp3_Value,rowCount, columnCount);
-	BipartiteGraphPartialColoringInterface *g = new BipartiteGraphPartialColoringInterface(SRC_MEM_ADOLC, *uip3_SparsityPattern, rowCount, columnCount);
- 
-         //Step 2.2: Do Partial-Distance-Two-Coloring the bipartite graph with the specified ordering
-         g->PartialDistanceTwoColoring("INCEDENCE_DEGREE", "COLUMN_PARTIAL_DISTANCE_TWO");
-   //official_example(gname);
-	}
+        official_example(gname);
     else{
-	cout<<gname<<",";
-	 ConvertMatrixMarketFormat2RowCompressedFormat(gname, uip3_SparsityPattern, dp3_Value,rowCount, columnCount);
+	 ConvertMatrixMarketFormat2RowCompressedFormat(SRC_FILE, uip3_SparsityPattern, dp3_Value,rowCount, columnCount);
 	BipartiteGraphPartialColoringInterface *g = new BipartiteGraphPartialColoringInterface(SRC_MEM_ADOLC, *uip3_SparsityPattern, rowCount, columnCount);
  
          //Step 2.2: Do Partial-Distance-Two-Coloring the bipartite graph with the specified ordering
-         g->PartialDistanceTwoColoring(order.c_str(), color.c_str());
+         g->PartialDistanceTwoColoring("SMALLEST_LAST", "COLUMN_PARTIAL_DISTANCE_TWO");
         /*GraphColoringInterface *g = new GraphColoringInterface(SRC_FILE, gname.c_str(), "AUTO_DETECTED");
         g->Coloring(order.c_str(), color.c_str());
         std::cout<<"graph :"<<gname<<std::endl;

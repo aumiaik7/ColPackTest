@@ -108,7 +108,7 @@ namespace ColPack
 
 		m_T_Timer.Stop();
 		m_d_ColoringTime = m_T_Timer.GetWallTime();
-		BipartiteGraphPartialColoring::PrintPartialColoringMetrics();
+		BipartiteGraphPartialColoring::PrintPartialColoringMetrics()
 		return(i_ColoringStatus);
 	}
 

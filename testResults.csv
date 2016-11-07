@@ -1,0 +1,88 @@
+Graphs/bcsstk01_mod.mtx,Column Natural,Column Partial Distance Two,0,0,15
+Graphs/bcsstk01_mod.mtx,Column Largest First,Column Partial Distance Two,0,0,17
+Graphs/bcsstk01_mod.mtx,Column Smallest Last,Column Partial Distance Two,0,0,16
+Graphs/bcsstk01_mod.mtx,Column Incidence Degree,Column Partial Distance Two,0,0,14
+Graphs/bcsstk01_mod.mtx,Row Natural,Row Partial Distance Two,0,0,15
+Graphs/bcsstk01_mod.mtx,Row Largest First,Row Partial Distance Two,0,0,17
+Graphs/bcsstk01_mod.mtx,Row Smallest Last,Row Partial Distance Two,0,0,16
+Graphs/bcsstk01_mod.mtx,Row Incidence Degree,Row Partial Distance Two,0,0,14
+Graphs/bcsstk01.mtx,Column Natural,Column Partial Distance Two,0,0,15
+Graphs/bcsstk01.mtx,Column Largest First,Column Partial Distance Two,0,0,17
+Graphs/bcsstk01.mtx,Column Smallest Last,Column Partial Distance Two,0,0,16
+Graphs/bcsstk01.mtx,Column Incidence Degree,Column Partial Distance Two,0,0,14
+Graphs/bcsstk01.mtx,Row Natural,Row Partial Distance Two,0,0,15
+Graphs/bcsstk01.mtx,Row Largest First,Row Partial Distance Two,0,0,17
+Graphs/bcsstk01.mtx,Row Smallest Last,Row Partial Distance Two,0,0,16
+Graphs/bcsstk01.mtx,Row Incidence Degree,Row Partial Distance Two,0,0,14
+Graphs/bcsstm01.mtx,Column Natural,Column Partial Distance Two,0,0,1
+Graphs/bcsstm01.mtx,Column Largest First,Column Partial Distance Two,0,0,1
+Graphs/bcsstm01.mtx,Column Smallest Last,Column Partial Distance Two,0,0,1
+Graphs/bcsstm01.mtx,Column Incidence Degree,Column Partial Distance Two,0,0,1
+Graphs/bcsstm01.mtx,Row Natural,Row Partial Distance Two,0,0,1
+Graphs/bcsstm01.mtx,Row Largest First,Row Partial Distance Two,0,0,1
+Graphs/bcsstm01.mtx,Row Smallest Last,Row Partial Distance Two,0,0,1
+Graphs/bcsstm01.mtx,Row Incidence Degree,Row Partial Distance Two,0,0,1
+Graphs/column-compress.mtx,Column Natural,Column Partial Distance Two,0,0,2
+Graphs/column-compress.mtx,Column Largest First,Column Partial Distance Two,0,0,2
+Graphs/column-compress.mtx,Column Smallest Last,Column Partial Distance Two,0,0,2
+Graphs/column-compress.mtx,Column Incidence Degree,Column Partial Distance Two,0,0,2
+Graphs/column-compress.mtx,Row Natural,Row Partial Distance Two,0,0,10
+Graphs/column-compress.mtx,Row Largest First,Row Partial Distance Two,0,0,10
+Graphs/column-compress.mtx,Row Smallest Last,Row Partial Distance Two,0,0,10
+Graphs/column-compress.mtx,Row Incidence Degree,Row Partial Distance Two,0,0,10
+Graphs/hess_pat.mtx,Column Natural,Column Partial Distance Two,0,0,12
+Graphs/hess_pat.mtx,Column Largest First,Column Partial Distance Two,0,0,12
+Graphs/hess_pat.mtx,Column Smallest Last,Column Partial Distance Two,0,0,12
+Graphs/hess_pat.mtx,Column Incidence Degree,Column Partial Distance Two,0,0,12
+Graphs/hess_pat.mtx,Row Natural,Row Partial Distance Two,0,0,12
+Graphs/hess_pat.mtx,Row Largest First,Row Partial Distance Two,0,0,12
+Graphs/hess_pat.mtx,Row Smallest Last,Row Partial Distance Two,0,0,12
+Graphs/hess_pat.mtx,Row Incidence Degree,Row Partial Distance Two,0,0,12
+Graphs/hess_pat_small.mtx,Column Natural,Column Partial Distance Two,0,0,6
+Graphs/hess_pat_small.mtx,Column Largest First,Column Partial Distance Two,0,0,6
+Graphs/hess_pat_small.mtx,Column Smallest Last,Column Partial Distance Two,0,0,6
+Graphs/hess_pat_small.mtx,Column Incidence Degree,Column Partial Distance Two,0,0,6
+Graphs/hess_pat_small.mtx,Row Natural,Row Partial Distance Two,0,0,6
+Graphs/hess_pat_small.mtx,Row Largest First,Row Partial Distance Two,0,0,6
+Graphs/hess_pat_small.mtx,Row Smallest Last,Row Partial Distance Two,0,0,6
+Graphs/hess_pat_small.mtx,Row Incidence Degree,Row Partial Distance Two,0,0,6
+Graphs/jac_pat.mtx,Column Natural,Column Partial Distance Two,0,0,11
+Graphs/jac_pat.mtx,Column Largest First,Column Partial Distance Two,0,0,11
+Graphs/jac_pat.mtx,Column Smallest Last,Column Partial Distance Two,0,0,11
+Graphs/jac_pat.mtx,Column Incidence Degree,Column Partial Distance Two,0,0,11
+Graphs/jac_pat.mtx,Row Natural,Row Partial Distance Two,0,0,6
+Graphs/jac_pat.mtx,Row Largest First,Row Partial Distance Two,0,0,6
+Graphs/jac_pat.mtx,Row Smallest Last,Row Partial Distance Two,0,0,6
+Graphs/jac_pat.mtx,Row Incidence Degree,Row Partial Distance Two,0,0,6
+Graphs/mtx-spear-head.mtx,Column Natural,Column Partial Distance Two,0,0,10
+Graphs/mtx-spear-head.mtx,Column Largest First,Column Partial Distance Two,0,0,10
+Graphs/mtx-spear-head.mtx,Column Smallest Last,Column Partial Distance Two,0,0,10
+Graphs/mtx-spear-head.mtx,Column Incidence Degree,Column Partial Distance Two,0,0,10
+Graphs/mtx-spear-head.mtx,Row Natural,Row Partial Distance Two,0,0,10
+Graphs/mtx-spear-head.mtx,Row Largest First,Row Partial Distance Two,0,0,10
+Graphs/mtx-spear-head.mtx,Row Smallest Last,Row Partial Distance Two,0,0,10
+Graphs/mtx-spear-head.mtx,Row Incidence Degree,Row Partial Distance Two,0,0,10
+Graphs/mymatrix1.mtx,Column Natural,Column Partial Distance Two,0,0,4
+Graphs/mymatrix1.mtx,Column Largest First,Column Partial Distance Two,0,0,4
+Graphs/mymatrix1.mtx,Column Smallest Last,Column Partial Distance Two,0,0,4
+Graphs/mymatrix1.mtx,Column Incidence Degree,Column Partial Distance Two,0,0,4
+Graphs/mymatrix1.mtx,Row Natural,Row Partial Distance Two,0,0,4
+Graphs/mymatrix1.mtx,Row Largest First,Row Partial Distance Two,0,0,4
+Graphs/mymatrix1.mtx,Row Smallest Last,Row Partial Distance Two,0,0,4
+Graphs/mymatrix1.mtx,Row Incidence Degree,Row Partial Distance Two,0,0,4
+Graphs/mymatrix.mtx,Column Natural,Column Partial Distance Two,0,0,4
+Graphs/mymatrix.mtx,Column Largest First,Column Partial Distance Two,0,0,4
+Graphs/mymatrix.mtx,Column Smallest Last,Column Partial Distance Two,0,0,4
+Graphs/mymatrix.mtx,Column Incidence Degree,Column Partial Distance Two,0,0,4
+Graphs/mymatrix.mtx,Row Natural,Row Partial Distance Two,0,0,2
+Graphs/mymatrix.mtx,Row Largest First,Row Partial Distance Two,0,0,2
+Graphs/mymatrix.mtx,Row Smallest Last,Row Partial Distance Two,0,0,2
+Graphs/mymatrix.mtx,Row Incidence Degree,Row Partial Distance Two,0,0,2
+Graphs/row-compress.mtx,Column Natural,Column Partial Distance Two,0,0,10
+Graphs/row-compress.mtx,Column Largest First,Column Partial Distance Two,0,0,10
+Graphs/row-compress.mtx,Column Smallest Last,Column Partial Distance Two,0,0,10
+Graphs/row-compress.mtx,Column Incidence Degree,Column Partial Distance Two,0,0,10
+Graphs/row-compress.mtx,Row Natural,Row Partial Distance Two,0,0,2
+Graphs/row-compress.mtx,Row Largest First,Row Partial Distance Two,0,0,2
+Graphs/row-compress.mtx,Row Smallest Last,Row Partial Distance Two,0,0,2
+Graphs/row-compress.mtx,Row Incidence Degree,Row Partial Distance Two,0,0,2
