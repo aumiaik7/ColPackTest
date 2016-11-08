@@ -1,0 +1,64 @@
+Graphs/af23560.mtx,Column Natural,0.00,0.01,32
+Graphs/af23560.mtx,Column Largest First,0.02,0.01,44
+Graphs/af23560.mtx,Column Smallest Last,0.06,0.01,42
+Graphs/af23560.mtx,Column Incidence Degree,0.04,0.01,42
+Graphs/af23560.mtx,Row Natural,0.00,0.01,32
+Graphs/af23560.mtx,Row Largest First,0.01,0.01,36
+Graphs/af23560.mtx,Row Smallest Last,0.05,0.02,42
+Graphs/af23560.mtx,Row Incidence Degree,0.05,0.01,42
+Graphs/cage11.mtx,Column Natural,0.00,0.01,81
+Graphs/cage11.mtx,Column Largest First,0.02,0.02,67
+Graphs/cage11.mtx,Column Smallest Last,0.08,0.03,64
+Graphs/cage11.mtx,Column Incidence Degree,0.08,0.03,67
+Graphs/cage11.mtx,Row Natural,0.00,0.02,81
+Graphs/cage11.mtx,Row Largest First,0.02,0.02,67
+Graphs/cage11.mtx,Row Smallest Last,0.08,0.03,64
+Graphs/cage11.mtx,Row Incidence Degree,0.08,0.03,67
+Graphs/cage12.mtx,Column Natural,0.00,0.05,96
+Graphs/cage12.mtx,Column Largest First,0.08,0.08,73
+Graphs/cage12.mtx,Column Smallest Last,0.33,0.12,67
+Graphs/cage12.mtx,Column Incidence Degree,0.34,0.11,72
+Graphs/cage12.mtx,Row Natural,0.00,0.05,96
+Graphs/cage12.mtx,Row Largest First,0.09,0.08,73
+Graphs/cage12.mtx,Row Smallest Last,0.33,0.11,67
+Graphs/cage12.mtx,Row Incidence Degree,0.32,0.11,72
+Graphs/e30r2000.mtx,Column Natural,0.00,0.01,65
+Graphs/e30r2000.mtx,Column Largest First,0.01,0.02,68
+Graphs/e30r2000.mtx,Column Smallest Last,0.05,0.02,70
+Graphs/e30r2000.mtx,Column Incidence Degree,0.05,0.01,71
+Graphs/e30r2000.mtx,Row Natural,0.00,0.01,65
+Graphs/e30r2000.mtx,Row Largest First,0.02,0.01,68
+Graphs/e30r2000.mtx,Row Smallest Last,0.05,0.02,70
+Graphs/e30r2000.mtx,Row Incidence Degree,0.04,0.02,71
+Graphs/e40r0100.mtx,Column Natural,0.00,0.03,66
+Graphs/e40r0100.mtx,Column Largest First,0.02,0.03,66
+Graphs/e40r0100.mtx,Column Smallest Last,0.09,0.03,70
+Graphs/e40r0100.mtx,Column Incidence Degree,0.09,0.04,72
+Graphs/e40r0100.mtx,Row Natural,0.00,0.02,66
+Graphs/e40r0100.mtx,Row Largest First,0.03,0.03,66
+Graphs/e40r0100.mtx,Row Smallest Last,0.09,0.03,70
+Graphs/e40r0100.mtx,Row Incidence Degree,0.07,0.04,72
+Graphs/lp_ken_11.mtx,Column Natural,0.00,0.00,130
+Graphs/lp_ken_11.mtx,Column Largest First,0.00,0.00,128
+Graphs/lp_ken_11.mtx,Column Smallest Last,0.01,0.00,125
+Graphs/lp_ken_11.mtx,Column Incidence Degree,0.01,0.01,124
+Graphs/lp_ken_11.mtx,Row Natural,0.00,0.00,5
+Graphs/lp_ken_11.mtx,Row Largest First,0.00,0.00,4
+Graphs/lp_ken_11.mtx,Row Smallest Last,0.00,0.00,4
+Graphs/lp_ken_11.mtx,Row Incidence Degree,0.00,0.00,4
+Graphs/lp_ken_13.mtx,Column Natural,0.00,0.00,176
+Graphs/lp_ken_13.mtx,Column Largest First,0.01,0.00,174
+Graphs/lp_ken_13.mtx,Column Smallest Last,0.02,0.00,171
+Graphs/lp_ken_13.mtx,Column Incidence Degree,0.02,0.01,171
+Graphs/lp_ken_13.mtx,Row Natural,0.00,0.00,4
+Graphs/lp_ken_13.mtx,Row Largest First,0.00,0.00,5
+Graphs/lp_ken_13.mtx,Row Smallest Last,0.01,0.00,4
+Graphs/lp_ken_13.mtx,Row Incidence Degree,0.01,0.00,5
+Graphs/lp_maros_r7.mtx,Column Natural,0.00,0.00,74
+Graphs/lp_maros_r7.mtx,Column Largest First,0.01,0.00,70
+Graphs/lp_maros_r7.mtx,Column Smallest Last,0.02,0.01,83
+Graphs/lp_maros_r7.mtx,Column Incidence Degree,0.03,0.01,90
+Graphs/lp_maros_r7.mtx,Row Natural,0.00,0.01,72
+Graphs/lp_maros_r7.mtx,Row Largest First,0.01,0.01,100
+Graphs/lp_maros_r7.mtx,Row Smallest Last,0.02,0.01,80
+Graphs/lp_maros_r7.mtx,Row Incidence Degree,0.02,0.01,88

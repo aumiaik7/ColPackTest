@@ -78,11 +78,11 @@ cout<<"here"<<gname;
 	BipartiteGraphPartialColoringInterface *g = new BipartiteGraphPartialColoringInterface(SRC_MEM_ADOLC, *uip3_SparsityPattern, rowCount, columnCount);
  
          //Step 2.2: Do Partial-Distance-Two-Coloring the bipartite graph with the specified ordering
-         g->PartialDistanceTwoColoring("INCEDENCE_DEGREE", "COLUMN_PARTIAL_DISTANCE_TWO");
+         g->PartialDistanceTwoColoring("INCIDENCE_DEGREE", "COLUMN_PARTIAL_DISTANCE_TWO");
    //official_example(gname);
 	}
     else{
-	cout<<gname<<","
+	cout<<gname<<",";
 	 ConvertMatrixMarketFormat2RowCompressedFormat(gname, uip3_SparsityPattern, dp3_Value,rowCount, columnCount);
 	BipartiteGraphPartialColoringInterface *g = new BipartiteGraphPartialColoringInterface(SRC_MEM_ADOLC, *uip3_SparsityPattern, rowCount, columnCount);
  
